@@ -1,0 +1,13 @@
+.center
+{
+    margin-top: 20px;
+    display:flex;
+    justify-content:center;
+    align-item:center;
+    margin-bottom: 30px;
+}
+.d
+{
+    margin-bottom: 30px;
+}
+
